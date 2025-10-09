@@ -14,8 +14,11 @@
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^17.2.3",
-    "express": "^5.1.0",
-    "mongoose": "^8.19.0",
-    "multer": "^2.0.2"
+    "express": "^4.21.2",
+    "express-mongo-sanitize": "^2.2.0",
+    "helmet": "^8.1.0",
+    "mongoose": "^8.19.1",
+    "multer": "^2.0.2",
+    "xss-clean": "^0.1.4"
   }
 }
